@@ -97,7 +97,16 @@ Go to the connection you early create and execute the two scripts given in the `
 
 > You might have to add something to make the scripts work.
 
+## part 2 - Simple requets - Order by
 
+### Steps 1 Get the list of the 10 most populated cities in 2012
 
+### Steps 2 Get the list of the 50 cities with the lowest area
 
+### Steps 3 Obtain the list of overseas departments, that is, those whose department number begins with “97”
 
+### Steps 4 Obtain the name of the 10 most populated cities in 2012, as well as the name of the associated department
+
+### Steps 5 Obtain the list of the name of each department, associated with its code and the number of communes within these departments, sorting in order to obtain in priority the departments that have the most communes
+
+### Steps 6 Get the list of the 10 largest departments, in terms of area
