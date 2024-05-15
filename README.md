@@ -112,3 +112,15 @@ Go to the connection you early create and execute the two scripts given in the `
 5. Obtain the list of the name of each department, associated with its code and the number of communes within these departments, sorting in order to obtain in priority the departments that have the most communes
 
 6. Get the list of the 10 largest departments, in terms of area
+
+## part 3 - More advanced request
+
+1. Count the number of cities whose name begins with “Saint”
+
+2. Obtain the list of cities which have a name existing several times, and sort to first obtain those whose name is most often used by several municipalities
+
+3. Obtain in a single SQL query the list of cities whose area is greater than the average area
+
+4. Obtain the list of departments with more than 2 million inhabitant
+
+5.Replace the hyphens with a blank space, for all cities starting with “SAINT-” (in the column that contains capitalized names) 
