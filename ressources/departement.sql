@@ -1,11 +1,9 @@
--- phpMyAdmin SQL Dump
--- version 4.0.6deb1
--- http://www.phpmyadmin.net
---
--- Host: localhost
--- Generation Time: Nov 09, 2013 at 06:10 PM
--- Server version: 5.5.34-0ubuntu0.13.10.1
--- PHP Version: 5.5.3-1ubuntu2
+/*
+** EPITECH PROJECT, 2023
+** Workshop SQL
+** File description:
+** departement.sql
+*/
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -25,7 +23,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `departement`
 --
-
+-- USE 'database_name'
 CREATE TABLE IF NOT EXISTS `departement` (
   `departement_id` int(11) NOT NULL AUTO_INCREMENT,
   `departement_code` varchar(3) CHARACTER SET utf8 DEFAULT NULL,
