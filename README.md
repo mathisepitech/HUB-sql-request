@@ -66,6 +66,7 @@ This guide explains how to start the MySQL WORKBENCH service on a Fedora system.
    ```
 2. **Install MySQL WORKBENCH if Needed:**
   ```
+  sudo dnf install https://dev.mysql.com/get/mysql80-community-release-fc36-1.noarch.rpm
   sudo dnf install mysql-workbench
   ```
 3. **Launch MySQL Workbench:** Once the installation is complete, you can launch MySQL Workbench from the Fedora applications menu or by typing `mysql-workbench` in the terminal.
