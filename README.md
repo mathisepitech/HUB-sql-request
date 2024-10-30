@@ -124,4 +124,4 @@ Go to the connection you early create and execute the two scripts given in the `
 
 4. Obtain the list of departments with more than 2 million inhabitant
 
-5.Replace the hyphens with a blank space, for all cities starting with “SAINT-” (in the column that contains capitalized names) 
+5.Replace the hyphens with a blank space, for all cities starting with “SAINT-” (in the column that contains capitalized names)  lol
