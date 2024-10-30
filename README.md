@@ -15,7 +15,7 @@ Some instalattion is requiered before going further :kissing_heart:
 ### Guide: Starting MySQL on Fedora
 This guide explains how to start the MySQL service on a Fedora system.
 
- 
+  
 ### Steps
 
 1. **Check MySQL Installation:** Open a terminal and run the following command to check if MySQL is already installed: 
